@@ -17,7 +17,7 @@ async function bootstrap() {
   app.useGlobalFilters(new GlobalExceptionFilter());
   app.enableCors({
     credentials: true,
-    origin: true,
+    origin: ['https://pinje-ponje-platform.vercel.app'],
   });
   app.useGlobalFilters();
 
