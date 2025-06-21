@@ -12,6 +12,8 @@ NestJS - PostgreSQL - JWT - Prisma - bcrypt - Socket.IO
 Swagger
 ### Third Parties: (disabled in demo)
 Google Auth - 42Auth using Passport.js
+### DevOps:
+Docker / Docker Compose - DigitalOcean VM
 
 
 ## Preview and Screenshots
