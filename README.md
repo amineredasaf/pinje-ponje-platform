@@ -8,7 +8,7 @@ This project is about creating a website for the mighty Pong contest!.</br></br>
 Next.js - Tailwind - Sockets
 ### Backend: 
 NestJS - PostgreSQL - JWT - Prisma - bcrypt - Socket.IO
-###Docs:
+### Docs:
 Swagger
 ### Third Parties: (disabled in demo)
 Google Auth - 42Auth using Passport.js
