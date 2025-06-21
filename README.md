@@ -3,6 +3,13 @@ This project is about creating a website for the mighty Pong contest!.</br></br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Logo](https://github.com/yabtaour/pinje-ponje/assets/95212223/5b4d821c-53b3-4375-9222-04f4ab6cf1cc)
 
 
+## Stack Used
+Frontend: Next.js - Tailwind - Sockets
+Backend: NestJS - PostgreSQL - JWT - Prisma - bcrypt - Socket.IO
+Docs: Swagger
+Third Parties: Google Auth - 42Auth using Passport.js (disabled in demo)
+
+
 ## Preview and Screenshots
 ![Screenshot 2025-06-21 130700](https://github.com/user-attachments/assets/e39a9070-59ac-4a67-83c6-59db3fd5a392)
 ![Screenshot 2025-06-21 130338](https://github.com/user-attachments/assets/451f4046-ec3f-4396-815f-58ebba2d22dc)
