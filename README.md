@@ -10,8 +10,8 @@ Next.js - Tailwind - Sockets
 NestJS - PostgreSQL - JWT - Prisma - bcrypt - Socket.IO
 ###Docs:
 Swagger
-### Third Parties: 
-Google Auth - 42Auth using Passport.js (disabled in demo)
+### Third Parties: (disabled in demo)
+Google Auth - 42Auth using Passport.js
 
 
 ## Preview and Screenshots
