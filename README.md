@@ -4,10 +4,14 @@ This project is about creating a website for the mighty Pong contest!.</br></br>
 
 
 ## Stack Used
-Frontend: Next.js - Tailwind - Sockets
-Backend: NestJS - PostgreSQL - JWT - Prisma - bcrypt - Socket.IO
-Docs: Swagger
-Third Parties: Google Auth - 42Auth using Passport.js (disabled in demo)
+### Frontend: 
+Next.js - Tailwind - Sockets
+### Backend: 
+NestJS - PostgreSQL - JWT - Prisma - bcrypt - Socket.IO
+###Docs:
+Swagger
+### Third Parties: 
+Google Auth - 42Auth using Passport.js (disabled in demo)
 
 
 ## Preview and Screenshots
